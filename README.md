@@ -18,7 +18,7 @@ Provide instructions on how to install and run your project locally.
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/react-ipod.git
+git clone https://github.com/Risihikesh/Ipod.git
 
 # Change directory
 cd react-ipod
